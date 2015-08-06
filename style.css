@@ -1,0 +1,16 @@
+body{font-size: 20px;}
+h1{color: green;}
+h3{font-size: 2em;
+background-color: orange;}
+img{width: 300px;}
+#orangeitem {color: orange;}
+.italicsitem {text-decoration: underline;}
+#greenthing {color: red;}
+
+.left {float:left;
+margin: 10px;}
+.right {float:left;
+margin: 5px;}
+.moo {clear:both;}
+#bah {float: right;
+clear: both;}
